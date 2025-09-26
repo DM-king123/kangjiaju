@@ -28,7 +28,7 @@ const AboutPage: React.FC<AboutPageProps> = ({ typedText }) => {
     {
       degree: "M.Sc. in Cognitive Neuroscience (expected)",
       school: "University of Macau",
-      year: "2024-2027",
+      year: "2025-2027",
       focus: "Cognitive processes and neural mechanisms"
     }
     ,
